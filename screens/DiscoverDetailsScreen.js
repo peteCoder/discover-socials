@@ -4,7 +4,6 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { cancelTimes } from '../assets/images';
 
 
-
 const DiscoverDetailsScreen = ({navigation, route}) => {
     const { feed } = route.params;
 
