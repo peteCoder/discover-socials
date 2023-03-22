@@ -6,11 +6,16 @@ This design was provided by figma as a walk-through of the figma graphical engin
 I decided to code all the screens using the React Native framework for the frontend and the sanity CMS for backend.
 
 
-[![name](./assets/display/image1.png)](https://github.com/peteCoder/discover-socials/blob/main/assets/display/image2.png)
-[![name](./assets/display/image2.png)](https://github.com/peteCoder/discover-socials/blob/main/assets/display/image2.png)
-[![name](./assets/display/image3.png)](https://github.com/peteCoder/discover-socials/blob/main/assets/display/image2.png)
-[![name](./assets/display/image4.png)](https://github.com/peteCoder/discover-socials/blob/main/assets/display/image2.png)
-[![name](./assets/display/image5.png)](https://github.com/peteCoder/discover-socials/blob/main/assets/display/image2.png)
-[![name](./assets/display/image6.png)](https://github.com/peteCoder/discover-socials/blob/main/assets/display/image2.png)
+<!-- [![name](./assets/display/image1.png)](https://github.com/peteCoder/discover-socials/blob/main/assets/display/image2.png) [![name](./assets/display/image2.png)](https://github.com/peteCoder/discover-socials/blob/main/assets/display/image2.png) [![name](./assets/display/image3.png)](https://github.com/peteCoder/discover-socials/blob/main/assets/display/image2.png) [![name](./assets/display/image4.png)](https://github.com/peteCoder/discover-socials/blob/main/assets/display/image2.png) [![name](./assets/display/image5.png)](https://github.com/peteCoder/discover-socials/blob/main/assets/display/image2.png) [![name](./assets/display/image6.png)](https://github.com/peteCoder/discover-socials/blob/main/assets/display/image2.png) -->
 
 
+
+
+<p float="left">
+  <img src="./assets/display/image1.png" width="100" />
+  <img src="./assets/display/image2.png" width="100" /> 
+  <img src="./assets/display/image3.png" width="100" />
+  <img src="./assets/display/image4.png" width="100" />
+  <img src="./assets/display/image5.png" width="100" />
+  <img src="./assets/display/image6.png" width="100" />
+</p>
