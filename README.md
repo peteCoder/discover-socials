@@ -12,10 +12,10 @@ I decided to code all the screens using the React Native framework for the front
 
 
 <p float="left">
-  <img src="./assets/display/image1.png" width="100" />
-  <img src="./assets/display/image2.png" width="100" /> 
-  <img src="./assets/display/image3.png" width="100" />
-  <img src="./assets/display/image4.png" width="100" />
-  <img src="./assets/display/image5.png" width="100" />
-  <img src="./assets/display/image6.png" width="100" />
+  <img src="./assets/display/image1.png" width="150" />
+  <img src="./assets/display/image2.png" width="150" /> 
+  <img src="./assets/display/image3.png" width="150" />
+  <img src="./assets/display/image4.png" width="150" />
+  <img src="./assets/display/image5.png" width="150" />
+  <img src="./assets/display/image6.png" width="150" />
 </p>
